@@ -1,4 +1,4 @@
-# Code Wars Vasya-Clerk
+# Code Wars Complimentary DNA
 How I got to my answer is written in sudo code in my main.js file
 
 
